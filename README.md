@@ -1,0 +1,2 @@
+# JS-isNaN
+NaN method 
